@@ -13,6 +13,7 @@ Kimi
 Moonshot
 
 # —— AI 应用与场景 ——
+openclaw
 AI应用
 AI助手
 AI Agent
